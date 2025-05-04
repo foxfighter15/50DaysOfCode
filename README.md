@@ -1,4 +1,4 @@
-# 50 Days of Code - Summer Challenge ☀️💻
+# 50 Days of Code - Summer Challenge 🌞💻 #DrGViswanathanChallenge
 
 This summer, we are taking on a **50 Days of Coding** challenge! 🚀
 
